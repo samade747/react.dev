@@ -10,15 +10,7 @@ import About from './About';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    {/* <App2 /> */}
-    {/* <About /> */}
-    {/* <App name="Haroon" />
-    <App name="Ehtisham" />
-    <App name="Farooq" />
-    <App />
-    <App name="Sufiyan" />
-    <App name="Saqib" age="32" />
-    <App /> */}
+    
     <Counter />
   </React.StrictMode>
 );
