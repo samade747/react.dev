@@ -5,7 +5,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import Counter from './Counter';
 import App2 from './App2.js';
-// import About from './About';
+import About from './About';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
